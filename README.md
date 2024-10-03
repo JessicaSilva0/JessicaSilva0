@@ -6,7 +6,7 @@
 
 - 🏠 I'm from Brazil 🇧🇷 
 - 📍 Living in Porto, Portugal 🇵🇹
-- 👩‍💻 Working at Kuehne+Nagel as a Quality Assurance Engineer 👩‍💼
+- 👩‍💻 Working at TIS as a QA Lead Automation Engineer 👩‍💼
 - 💻 A geek who loves a lot code, quality and test engineering 🕵️‍♀️🐞
 - 👩‍❤️‍👩 I'm a proud girl 🏳️‍🌈
 - ♉  May,11. Taurus 🍟	🍕 🍣
