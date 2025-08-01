@@ -13,7 +13,7 @@
 - 📿 I'm a very mystical person, connected with energy, incense, buddism and meditation 🧿 
  
 
-[![Linkedin](https://img.shields.io/badge/-JessicaSilva0-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasilva0) ![Outlook](https://img.shields.io/badge/-contato.jfcontabil@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jfcontabil@outlook.com)
+[![Linkedin](https://img.shields.io/badge/-JessicaSilva0-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasilva0) ![Outlook](https://img.shields.io/badge/-hi.callme.jessy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi.callme.jessy@gmail.com)
 
 <hr>
 </hr>
