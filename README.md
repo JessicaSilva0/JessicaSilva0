@@ -1,9 +1,9 @@
 
-### Hello, you can call me by Jess ;)
+### Hey ho 👋
 <!--
 **JessicaSilva0/JessicaSilva0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+- 🏠 I'm Jess 😊
 - 🏠 I'm from Brazil 🇧🇷 
 - 📍 Living in Porto, Portugal 🇵🇹
 - 👩‍💻 Working at TIS as a QA Lead Automation Engineer 👩‍💼
