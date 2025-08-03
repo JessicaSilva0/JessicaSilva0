@@ -36,4 +36,4 @@
   <img align="center" alt="lang-javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>  
   
-  ### :star2: So long, and thanks for all the fish! :wave: :star2:
+  ### :star2: So long, and thanks for all the fish! :wave: 🐟
